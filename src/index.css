@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0047AB; /* More vibrant Royal Blue */
+  --color-secondary: #FFD700; /* Gold */
+  --color-accent: #FFD700;
+  --color-neutral-white: #FFFFFF;
+  --color-neutral-slate: #708090;
+}
